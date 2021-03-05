@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp6956797.jpg);
+    background-size: 1370px 700px;
+}
+img{
+    width: 300px;
+    height: 400px;
+    position: relative;
+    top: 150px;
+    left: 70px;
+}
+h2{
+    display: block;
+    border: 5px solid whitesmoke;
+    color: chartreuse;
+    width: 290px;
+    height: 400px;
+    position: absolute;
+    top: 130px;
+    left: 600px;
+    overflow: scroll;
+}
+li{
+    color: black;
+    display: inline;
+    padding: 130px;
+}
+.na{
+    position: sticky;
+    background-color: aqua;
+}
